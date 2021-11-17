@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/gcSQ9wELeSfbbs0ET0/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/gcSQ9wELeSfbbs0ET0/giphy.gif" width="auto" height="40" />
 
 <!--
 **TheBastos/TheBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
