@@ -1,4 +1,4 @@
-<h1 align=center>Hi 👋, I'm Bastien CANTET</h3>
+<h1 align=center>Hi 👋, I'm Bastien CANTET</h1>
 
 <!--
 **TheBastos/TheBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
