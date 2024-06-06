@@ -20,6 +20,16 @@ https://media.giphy.com/media/gcSQ9wELeSfbbs0ET0/giphy.gif
   * 📞 Feel free to contact me
   * 🚗 Vroom Vroom
 
+## 💪 What I love
+<a href="https://www.nextjs.org"><img src="https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-React-blue?logo=react?&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-Bastien_Cantet-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-Bastien_Cantet-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-Bastien_Cantet-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-Bastien_Cantet-blue?logo=linkedin&style=flat-square"></a>
+ 
+ 
+
 ## 😉 Connect with me
   <a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-Bastien_Cantet-blue?logo=linkedin&style=flat-square"></a>
   <a href="mailto:bastiencantet@outlook.fr"><img src="https://img.shields.io/badge/-bastiencantet@outlook.fr-blue?logo=microsoftoutlook&style=flat-square"></a>
