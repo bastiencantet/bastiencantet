@@ -36,4 +36,9 @@ https://media.giphy.com/media/gcSQ9wELeSfbbs0ET0/giphy.gif
   <a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-Bastien_Cantet-blue?logo=linkedin&style=flat-square"></a>
   <a href="mailto:bastiencantet@outlook.fr"><img src="https://img.shields.io/badge/-bastiencantet@outlook.fr-blue?logo=microsoftoutlook&style=flat-square"></a>
 
+<br/>
+<br/>
+<br/>
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=bastiencantet.bastiencantet)
   
