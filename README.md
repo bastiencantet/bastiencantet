@@ -22,11 +22,13 @@ https://media.giphy.com/media/gcSQ9wELeSfbbs0ET0/giphy.gif
 
 ## 💪 What I love
 <a href="https://www.nextjs.org"><img src="https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&style=flat-square"></a>
-<a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-React-blue?logo=react?&style=flat-square"></a>
-<a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-Bastien_Cantet-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-Bastien_Cantet-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-Bastien_Cantet-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://www.linkedin.com/in/bastien-cantet-696a07206/"><img src="https://img.shields.io/badge/-Bastien_Cantet-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.nextjs.org"><img src="https://img.shields.io/badge/-React-black?logo=react&style=flat-square"></a>
+<a href=""><img src="https://img.shields.io/badge/-Javascript-grey?logo=javascript&style=flat-square"></a>
+<a href=""><img src="https://img.shields.io/badge/-Typescript-grey?logo=typescript&style=flat-square"></a>
+<a href=""><img src="https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=flat-square"></a>
+<a href=""><img src="https://img.shields.io/badge/-Docker-darkblue?logo=docker&style=flat-square&logoColor=white&textColor="></a>
+<a href=""><img src="https://img.shields.io/badge/-Express-black?logo=express&style=flat-square"></a>
+<a href=""><img src="https://img.shields.io/badge/-Nest.Js-black?logo=nestjs&style=flat-square"></a>
  
  
 
