@@ -27,6 +27,7 @@ https://media.giphy.com/media/gcSQ9wELeSfbbs0ET0/giphy.gif
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-Typescript-black?logo=typescript&style=flat-square"></a>
 <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=flat-square"></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-black?logo=docker&style=flat-square&textColor="></a>
+<a href="https://www.mongodb.org/"><img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat-square"></a>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-black?logo=express&style=flat-square"></a>
 <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/-Nest.Js-black?logo=nestjs&style=flat-square"></a>
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-black?logo=rust&style=flat-square"></a>
