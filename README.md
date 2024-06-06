@@ -29,6 +29,7 @@ https://media.giphy.com/media/gcSQ9wELeSfbbs0ET0/giphy.gif
 <a href=""><img src="https://img.shields.io/badge/-Docker-black?logo=docker&style=flat-square&textColor="></a>
 <a href=""><img src="https://img.shields.io/badge/-Express-black?logo=express&style=flat-square"></a>
 <a href=""><img src="https://img.shields.io/badge/-Nest.Js-black?logo=nestjs&style=flat-square"></a>
+<a href=""><img src="https://img.shields.io/badge/-Rust-black?logo=rust&style=flat-square"></a>
 <a href=""><img src="https://img.shields.io/badge/-C-black?logo=clang&style=flat-square"></a>
 <a href=""><img src="https://img.shields.io/badge/-CPP-black?logo=clang&style=flat-square"></a>
 
