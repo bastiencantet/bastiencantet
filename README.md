@@ -19,6 +19,7 @@ https://media.giphy.com/media/gcSQ9wELeSfbbs0ET0/giphy.gif
   * 🐳 Docker and Kubernetes Lover
   * 📞 Feel free to contact me
   * 🚗 Vroom Vroom
+  * [Love in my work]([https://heart.bastosbob.com/)
 
 ## 💪 What I love
 <a href="https://www.nextjs.org"><img src="https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&style=flat-square"></a>
