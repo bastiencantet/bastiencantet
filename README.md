@@ -19,7 +19,7 @@ https://media.giphy.com/media/gcSQ9wELeSfbbs0ET0/giphy.gif
   * 🐳 Docker and Kubernetes Lover
   * 📞 Feel free to contact me
   * 🚗 Vroom Vroom
-  * My side project : <a href="https://renifler.io/" rel='dofollow'>https://renifler.io/</a>
+  * My side project : <a href="https://renifler.io/">https://renifler.io/</a>
   * 💗 <a href="https://heart.bastosbob.com/">Love in my work</a>
 
 ## 💪 What I love
